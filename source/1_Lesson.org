@@ -1,0 +1,146 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
+#+TITLE: A Project Storage Box
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class=ribbon>
+<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+
+* Introduction and Research
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+- Over the course of this year, you are going to be manufacturing numerous electronic and mechanical products.
+- To prevent loss or damage to your work, the outcome of this project is to produce an MDF box that you can use to store your work.
+- The aims of this project are:
+  1. To introduce you to Computer Aided Design (CAD)
+  2. To introduce you to Laser Cutting
+  3. To intorduce you to 3D manufacturing.
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+- Download this file.
+- You can open it in Sublime Text (or another text editor).
+- Whenever this resource asks you to =Document It= you can record the evidence needed in the text file, in the spaces provided.
+- Have a go now, and add in your name and form.
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- To hold our projects for the year our box is going to need to meet the following criteria:
+  1. Be no smaller than
+  2. Cost no more than £2
+  3. Stackable
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Before we start any project we should always try and see what is already available on the market.
+- Use the web to see if you can find a couple of boxes that might be suitable.
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+- You'll need to find images and use their =URLs= in your document. Ask your teacher if you're not sure how to do this.
+- You'll need to list advantages and disadvantages of the boxes.
+- Here's an example of what your document should look like.
+[[file:img/Research_1.png]]
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+- We need to pick a suitable material from which to produce our box.
+- The material must meet the following criteria
+  1. Cost no more than £7 per square meter
+  2. Can be cut on a laser cutter
+  3. Can withstand mild bumps and knocks
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Use the web to find a suitable material to use for your box.
+- Here are some materials that you might like to research:
+  - Aluminium
+  - Acrylic
+  - MDF
+  - Balsa wood
+  - Cardboard
+  - Ash wood
+  - Depleted Uranium
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+- Add images and Advantages/Disadvantages of the two materials you have chosen to your document.

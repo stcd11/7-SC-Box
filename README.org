@@ -1,0 +1,2 @@
+* 7-CS-Box
+** A project to design and manufacture an MDF box to house students' projects
