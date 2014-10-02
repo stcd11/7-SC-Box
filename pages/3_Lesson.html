@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>A Project Storage Box</title>
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">A Project Storage Box</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Creating your own sketch</a>
+<ul>
+<li><a href="#sec-1-1">Design It</a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2. Creating a sketch from a design</a>
+<ul>
+<li><a href="#sec-2-1">Badge It - Gold 3D Designer</a></li>
+</ul>
+</li>
+<li><a href="#sec-3">3. Creating a sketch from a real part</a>
+<ul>
+<li><a href="#sec-3-1">Badge It - Platinum 3D Designer</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class=ribbon>
+<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2 activity">
+<h2 id="sec-1"><span class="section-number-2">1</span> Creating your own sketch</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li>Now that you've had some experience dimensioning and trimming Solidworks sketches, we're going to create a sketch of our own.
+</li>
+</ul>
+</div>
+<div id="outline-container-sec-1-1" class="outline-3 design">
+<h3 id="sec-1-1">Design It</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li>Here is a picture of the piece we're trying to make.
+</li>
+</ul>
+
+<div class="figure">
+<p><img src="img/Box_Lid_Front.jpg" alt="Box_Lid_Front.jpg" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Open up Solidworks and create a new file.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_1.png" alt="sketch_1.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Choose the option to make a <code>Part</code>.
+</li>
+<li>Click <code>OK</code>.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_2.png" alt="sketch_2.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>We're going to start off with a rectangle. Find the rectangle tool in the toolbar and click the small arrow to the right of it. This will bring up a context menu, allowing you to choose different types of rectangle.
+</li>
+<li>We want to use the <code>Centre Rectangle</code>
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_3.png" alt="sketch_3.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Now Solidworks will ask you to choose which <code>Plane</code> you want to start your sketch in. We'll choose the <code>Top Plane</code> by clicking on it.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_4.png" alt="sketch_4.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>If you want to change your view at any time, you can use the view tool bar at the top of the screen.
+</li>
+<li>It'll be easiest if we're in the <code>Top</code> view.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_5.png" alt="sketch_5.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Now, this next part is important. You need to start drawing your rectangle in the centre of the 3D environment. You should see a pair of arrows indicating the <code>origin</code>. This is where the rectangle should start.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_6.png" alt="sketch_6.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Don't worry about the size of the rectangle. Just drag it out to any size. Then use the <code>Smart Dimentsion</code> tool you used in the last lesson to set the rectangle's dimensiions, as shown below
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_7.png" alt="sketch_7.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Your sketch should be <code>Fully Defined</code> at the moment.
+</li>
+<li>Next we'll add some finger joints.
+</li>
+<li>This time we want to use the <code>Corner Rectangle</code>
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_8.png" alt="sketch_8.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Add rectangles as shown below. Make sure that each Rectangle starts being draw on the lines of the large rectangle in the middle.
+</li>
+<li>You should see small green symbols. The first one shown means a point is <code>coincident</code> to a line. This is the same as saying it is touching the line.
+</li>
+<li>The second green symbols shown indicate that two lines are <code>Vertical</code>
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_9.png" alt="sketch_9.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Now that the finger joints have been added, we need to dimension them. Add dimensions so that your sketch is fully defined, like the one below.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_10.png" alt="sketch_10.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>We now need to add a cut out in our main shape.
+</li>
+<li>Use the centre rectangle tool to draw a rectangle <i>near</i> to the center of the large rectangle.
+</li>
+<li>Dimension it so that is is 3mmx12mm and 6mm from the top.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_11.png" alt="sketch_11.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Now we want to position the small rectangle in the <i>Horizontal</i> centre of the large rectangle.
+</li>
+<li>Click on the middle of the large rectangle, then hold down the <i>Shift Key</i> and click on the centre of the small rectangle.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_12.png" alt="sketch_12.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Now from the context menu on the left of the screen, choose to add a <code>Vertical</code> relationship.
+</li>
+<li>Click the green tick. This will now ensure that the two rectangles are vertically aligned.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_13.png" alt="sketch_13.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Your sketch should now be fully defined and look like the image below.
+</li>
+<li>Trim the finger joints next.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_14.png" alt="sketch_14.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Exit your sketch.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_15.png" alt="sketch_15.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li>Now extrude the sketch by 3mm to make your finished part. Save it as <b>Lid-Box-Front</b>.
+</li>
+</ol>
+
+<div class="figure">
+<p><img src="img/sketch_16.png" alt="sketch_16.png" />
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2" class="outline-2 activity">
+<h2 id="sec-2"><span class="section-number-2">2</span> Creating a sketch from a design</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-sec-2-1" class="outline-3 badge">
+<h3 id="sec-2-1">Badge It - Gold 3D Designer</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li>To earn the Gold 3d Designer Badge
+<ol class="org-ol">
+<li>Look at the sketch below.
+</li>
+<li>You need to draw, trim and fully define this sketch.
+</li>
+<li>Once you have completed that, extrude it by 3mm
+</li>
+<li>Take a screen shot of the full defined sketch and the 3d part for your portfolio.
+</li>
+</ol>
+</li>
+</ul>
+<p>
+<img src="img/sketch_17.png" alt="sketch_17.png" />
+<img src="img/sketch_18.png" alt="sketch_18.png" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2 activity">
+<h2 id="sec-3"><span class="section-number-2">3</span> Creating a sketch from a real part</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-sec-3-1" class="outline-3 badge">
+<h3 id="sec-3-1">Badge It - Platinum 3D Designer</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>To earn the Platinum 3d Designer Badge
+<ol class="org-ol">
+<li>Find the part that looks like the image below.
+</li>
+<li>Use a pair of calipers to measure the dimensions of the part carefully.
+</li>
+<li>Use SolidWorks to create your own sketch of the part and take a screenshot of it for your portfolio.
+</li>
+<li>Extrude the sketch to produce a 3D part and capture a screenshot for your portfolio.
+</li>
+</ol>
+</li>
+</ul>
+
+<div class="figure">
+<p><img src="img/Box_Back.jpg" alt="Box_Back.jpg" />
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="validation"></p>
+</div>
+</body>
+</html>

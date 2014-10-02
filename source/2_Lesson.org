@@ -74,29 +74,97 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Designing the box
+* Defining and Trimming Solidworks sketches
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
 - We're going to use a program called Solidworks to design our box.
 - Solidworks is a 3D CAD program
 - You'll get lots of experience with Solidworks later on in the year, so for this section of the project, you'll just be creating a couple of the Solidworks parts and assembling them.
-** Design It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: design
-:END:
-- Below is the image of the =net= of the box, showing all the dimensions.
-- You're going to design the base and
-- Download this file and then open it in Solidworks.
+- In Solidworks you start by creating a *2D sketch*. You can then convert this to a *3D part*. You can then join parts together to make a *3D assembly*.
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-
-
 - In Solidworks you have to ensure all your drawings are *fully defined*.
 - This means that the software must know the dimensions of *every* line you draw.
 - Quite often the software is able to work out a dimension of a line, from others you have provided.
-- Look at the diagrams below and try and calculate the value of the missing dimensions labeled with a /?/. You can add the dimensions to the Portfolio.md.
--
-
+- Look at the diagrams below. They have all been *fully defined*. Try and calculate the value of the missing dimensions labeled. You can add the dimensions to the Portfolio.md.
+[[file:img/dimensions_1.png]]
+[[file:img/dimensions_2.png]]
+[[file:img/dimensions_3.png]]
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Below is a photograph of the parts we're going to design using Solidworks.
+- Notice the finger-joints on each part.
+[[file:img/Base_and_Front.jpg]]
+- [[file:doc/box_base_undefined.SLDPRT][Download this file ]]and then open it in Solidworks. This is the unfinished sketch of the base.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Let's add some dimensions to the drawing you've opened in SolidWorks.
+- Use the dimension tool to add the missing dimensions as shown in the image guide below.
+- When you are finished, your drawing should be *fully defined*.
+[[file:img/Dimensioning_1.png]]
+  1. Make sure the =Sketch= tab has been selected.
+  2. You'll see that the sketch has not yet been fully defined.
+  3. Click on the =Smart Dimension= tool from the tool bar.
+[[file:img/Dimensioning_2.png]]
+  4. Click the top line of the sketch and drag upwards a little.
+  5. Release the mouse button and you should see the dimension has been added.
+  6. This dimension should be 165mm so we can just click the green tick.
+[[file:img/Dimensioning_3.png]]
+  7. Now let's dimension the far right hand line in the same way. It should be 60mm.
+[[file:img/Dimensioning_4.png]]
+  8. Now we'll dimension the space between the finger-joint and the edge of the base. Click on the far left line.
+  9. Now click on the left-hand side of the finger-joint as shown.
+  10. Drag upwards to position the dimension marker and click.
+  11. This dimension is incorrect so change it to 25mm and then click the green tick.
+[[file:img/Dimensioning_5.png]]
+  12. Do the same with the right hand finger-joint.
+  13. Your sketch should be fully defined.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- To finish off this sketch, we need to do some triming.
+[[file:img/Trim_1.png]]
+  1. Click on the trim tool in the toolbar.
+[[file:img/Trim_2.png]]
+  2. From the context menu on the left of the screen, make sure =Trim to closest= has been selected.
+[[file:img/Trim_3.png]]
+  3. Now your cursor should now be displaying a scissor icon. Click on the upper line as shown in the diagram above. You will need to click twice to remove the line completely.
+[[file:img/Trim_4.png]]
+  4. You're sketch should now look a little like the one above.
+[[file:img/Trim_5.png]]
+  1. Use the trim tool to fashion the remaining finger-joints of the base.
+  2. Take a screen shot of your finished sketch for your portfolio.
+[[file:img/Trim_6.png]]
+  6. Some of the joints might be difficult to see, but if you click on the =Exit Sketch= button, then you'll see a clear drawing of your sketch.
+[[file:img/Trim_7.png]]
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- To turn a sketch into a part, we need to extrude it.
+[[file:img/Extrude_1.png]]
+  1. Click the =Features= tab to get the 3D tool bar.
+  2. Click on =Extruded Boss/Base=.
+[[file:img/Extrude_2.png]]
+  3. In the context menu on the left, change the Depth to 3mm, as this is the thickness of the MDF we are using.
+  4. Click the green tick to carry out the extrusion
+  5. Your part should now be complete, so take a screenshot for your portfolio.
+[[file:img/Extrude_3.png]]
+** Badge It - Silver 3D Designer 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Now let's see if you can dimension, trim and extrude a sketch on your own.
+- [[file:doc/box_front_undefined.SLDPRT][Download this file]] and open it in Solidworks.
+- Here is the finished sketch that you need to create, showing all the relevant dimensions.
+[[file:img/Box_front.png]]
+- When you have finsihed the sketch, you'll need to extrude it by 3mm.
+- Take screenshots of your finished sketch and part and then add them to your Portfolio.

@@ -1,2 +1,18 @@
 * 7-CS-Box
+
 ** A project to design and manufacture an MDF box to house students' projects
+| <20>                 | <20>                 | <20>                 | <20>                 |
+| Criteria             | Silver               | Gold                 | Platinum             |
+|----------------------+----------------------+----------------------+----------------------|
+| Boxer                | Assemble the storage box with a resonable degree of precision | Assemble the box neatly, with little or no excess glue, and all the parts neatly mated together |                      |
+|----------------------+----------------------+----------------------+----------------------|
+| Craftsman            | Design a simple name-plate to go onto the box | Design a name plate with a graphic, and a more intricate shape than a rectangle | Independently use the laser cutter to produce a name-plate |
+|----------------------+----------------------+----------------------+----------------------|
+| Best mate            | Use SolidWorks to mate three pieces of the storage box together correctly. | Create the entire storage box assembly. | Use movement constraints to ensure the box closes neatly. |
+|----------------------+----------------------+----------------------+----------------------|
+| 3D Designer          | Fully define a sketch that has been provided.fully define it for a 3D shape of given dimensions | Accurately draw and fully define a sketch for a part of the box assemblyetch for a part of the box assemblyfor the storage box. | Draw and fully define all parts of the box assembly |
+|----------------------+----------------------+----------------------+----------------------|
+| Brainbox             | Identify different materials that a storage box could be made from. | Critically evaluate pre-existing storage solutions. |                      |
+|----------------------+----------------------+----------------------+----------------------|
+| Judgement Day        | Explain why is is important to test a product. | Identify areas of strength and weakness of your storage box, and suggest an improvement. |                      |
+
