@@ -19,7 +19,18 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/3_Lesson.html][Week 3 - Creating your own sketch]]
+* [[file:pages/3_Lesson.html][Week 3 - Creating your own parts]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
+
+* [[file:pages/4_Lesson.html][Week 4 - Mating]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
+
+
+* [[file:pages/assessment_guidance.html][Assessment Guidance - ]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
