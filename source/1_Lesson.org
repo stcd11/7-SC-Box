@@ -90,7 +90,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: document
 :END:
-- Download this file.
+- [[file:Portfolio.md][Download this file.]]
 - You can open it in Sublime Text (or another text editor).
 - Whenever this resource asks you to =Document It= you can record the evidence needed in the text file, in the spaces provided.
 - Have a go now, and add in your name and form.
@@ -99,7 +99,7 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - To hold our projects for the year our box is going to need to meet the following criteria:
-  1. Be no smaller than
+  1. Be no smaller than 150mm x 50mm x 50mm
   2. Cost no more than £2
   3. Stackable
 ** Research It
@@ -120,7 +120,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-
 - We need to pick a suitable material from which to produce our box.
 - The material must meet the following criteria
   1. Cost no more than £7 per square meter
