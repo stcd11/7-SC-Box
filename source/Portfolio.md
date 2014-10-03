@@ -27,7 +27,6 @@
   1.
   2.
   3.
-
 ## Materials
 * I need to find a material to manufacture my box from.
 * Here are the materials that I found online that could be suitable:
@@ -50,8 +49,31 @@
 * Disadvantages  
   1. 
   2. 
+  3.
+## Glues
+* I need to use glue to assemble my box.
+* Here are the glues that I found online that could be suitable:
+### 1st Glue
+![Image of first glue](http://)
+* Advantages  
+  1. 
+  2. 
   3. 
-
+* Disadvantages  
+  1. 
+  2. 
+  3.
+### 2nd Glue
+![Image of second glue](http://)
+* Advantages  
+  1. 
+  2. 
+  3. 
+* Disadvantages  
+  1. 
+  2. 
+  3.
+# SolidWorks
 ## Dimensions in Solidworks
 ![Diagram 1](http://www.bournetoinvent.com/7-SC-Box/pages/img/dimensions_1.png)
 a)  
@@ -67,7 +89,6 @@ c)
 a)  
 b)  
 c)  
-
 ## The box base
 * Here is my sketch of the base of the box before I extruded it.
 ![Box Base Sketch]()
