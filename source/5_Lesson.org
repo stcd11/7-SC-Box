@@ -1,0 +1,184 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
+#+TITLE: A Project Storage Box
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class=ribbon>
+<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+* Building the box
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- It's time to start manufacturing your box.
+- Before you start, it would be worth checking out the [[Badge It]] section at the end of this page, as you're badge will depend on the care and precision with which you assemble the box.
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Before you start, use the web to identify and describe some different types of glue that can be used to bond wooden surfaces.
+- Write up your findings in a table in your portfolio.
+** Build It - The base
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- The finished box should look like this.
+[[file:img/Box_1.JPG]]
+- Check that you have all the correct MDF parts.
+[[file:img/1_Box.jpg]]
+- We'll start by assembling the base of the box.
+[[file:img/2_Box.jpg]]
+- Here's how the parts of the base will fit together.
+[[file:img/3_Box.jpg]]
+- You'll apply the PVA Glue using the tip of your finger.
+[[file:img/4_Box.jpg]]
+- Prepare the base by afixing masking tape as shown below. This will help fix the parts in place once you start glueing.
+[[file:img/5_Box.jpg]]
+- Apply the PVA to the edge of the back part. Don't use too much.
+[[file:img/6_Box.jpg]]
+- Fit the parts together.
+[[file:img/7_Box.jpg]]
+- Then use the masking tape to hold it in place.
+[[file:img/8_Box.jpg]]
+- Repeat this procedure to glue together the sides and front of the base.
+[[file:img/9_Box.jpg]]
+- Before the glue dries, make sure you clean it away from the corners of your box.
+[[file:img/10_Box.jpg]]
+** Build It - The locking mechanism
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Next we'll assemble the locking mechanism.
+[[file:img/11_Box.jpg]]
+- We need to line up the mechanism first. Take your box base.
+[[file:img/12_Box.jpg]]
+- Then fit the upright part of the mechanism into the hole.
+file:img/13_Box.jpg
+- Use a pencil to mark where the circular part needs to fit.
+file:img/14_Box.jpg
+- It should now look like this
+file:img/15_Box.jpg
+- Now glue the mechanism together.
+file:img/16_Box.jpg
+- Wait for it to dry and clean off the glue. Then use glass paper to shave off the corner as shown below
+file:img/17_Box.jpg
+file:img/18_Box.jpg
+file:img/19_Box.jpg
+- Then glue the mechanism into the box base as shown.
+file:img/20_Box.jpg
+file:img/21_Box.jpg
+file:img/22_Box.jpg
+** Build It - The lid
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Next we'll assemble the lid.
+file:img/23_Box.jpg
+- Using the same method as before, assemble and glue the lid together, cleaning off the glue once you have finsihed.
+file:img/24_Box.jpg
+- Next glue the inner parts of the lid into place.
+file:img/25_Box.jpg
+- It should now look like this. Give your parts at least *40 minutes* to dry.
+file:img_26_Box.jpg
+** Build It - Finishing off
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Use sand paper to gently sand the external faces of your box.
+file:img/27_Box.jpg
+- Now get some M3x12 machine screws and M3 nuts.
+file:img/28_Box.jpg
+- The machine screws will fit into the sides as shown below, but at the moment they will not sit /flush/ to the surface of the box.
+file:img/29_Box.jpg
+- Use a /Countersink Cutter/ to create a /countersink/ around the 3mm hole.
+file:img/30_Box.jpg
+- Now the machine screw should sit in the hole and be flush with the surface.
+file:img/31_Box.jpg
+- Use pliers and a screwdriver to screw the lid into place.
+file:img/32_Box.jpg
+- Lastly, get some polystyrene and place it in yout box to hold loose components.
+file:img/33_Box.jpg
+* Assessment
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Badge It - Boxer Silver and Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Show your box to your teacher.
+- A silver badge will be awarded if you have - /Assembled the storage box with a resonable degree of precision/
+- A gold badge will be awarded if you have - /Assembled the box neatly, with little or no excess glue, and all the parts neatly mated together/
