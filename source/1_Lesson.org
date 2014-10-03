@@ -75,7 +75,6 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-
 * Introduction and Research
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
