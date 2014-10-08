@@ -89,9 +89,8 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: document
 :END:
-- [[file:Portfolio.md][Download this file.]]
-- You can open it in Sublime Text (or another text editor).
-- Whenever this resource asks you to =Document It= you can record the evidence needed in the text file, in the spaces provided.
+- Download [[file:Portfolio.md][this]] file if you are using Markdown or [[file:Portfolio.docx][this]] file if you are using Microsoft Word
+- Whenever this resource asks you to =Document It= you can record the evidence needed in the file, in the spaces provided.
 - Have a go now, and add in your name and form.
 ** Learn It
 :PROPERTIES:
