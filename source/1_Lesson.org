@@ -89,7 +89,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: document
 :END:
-- Download [[file:Portfolio.md][this]] file if you are using Markdown or [[file:Portfolio.docx][this]] file if you are using Microsoft Word
+- Download [[file:doc/Portfolio.md][this]] file if you are using Markdown or [[file:doc/Portfolio.docx][this]] file if you are using Microsoft Word
 - Whenever this resource asks you to =Document It= you can record the evidence needed in the file, in the spaces provided.
 - Have a go now, and add in your name and form.
 ** Learn It
