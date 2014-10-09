@@ -92,17 +92,17 @@
 
 ## Dimensions in Solidworks
 
-![Diagram 1](http://www.bournetoinvent.com/7-SC-Box/pages/img/dimensions_1.png)
+![Diagram 1](https://www.bournetoinvent.com/projects/7-SC-Box/pages/img/dimensions_1.png)
 a)  
 b)  
 c)  
 
-![Diagram 2](http://www.bournetoinvent.com/7-SC-Box/pages/img/dimensions_2.png)
+![Diagram 2](https://www.bournetoinvent.com/projects/7-SC-Box/pages/img/dimensions_2.png)
 a)  
 b)  
 c)  
 
-![Diagram 3](http://www.bournetoinvent.com/7-SC-Box/pages/img/dimensions_3.png)
+![Diagram 3](https://www.bournetoinvent.com/projects/7-SC-Box/pages/img/dimensions_3.png)
 a)  
 b)  
 c)  
