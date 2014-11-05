@@ -166,5 +166,5 @@
 - [[file:doc/box_front_undefined.SLDPRT][Download this file]] and open it in Solidworks.
 - Here is the finished sketch that you need to create, showing all the relevant dimensions.
 [[file:img/Box_front.png]]
-- When you have finsihed the sketch, you'll need to extrude it by 3mm.
+- When you have finished the sketch, you'll need to extrude it by 3mm.
 - Take screenshots of your finished sketch and part and then add them to your Portfolio.
