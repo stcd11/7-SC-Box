@@ -100,7 +100,7 @@
 - Below is a photograph of the parts we're going to design using Solidworks.
 - Notice the finger-joints on each part.
 [[file:img/Base_and_Front.jpg]]
-- [[file:doc/box_base_undefined.SLDPRT][Download this file ]]and then open it in Solidworks. This is the unfinished sketch of the base.
+- [[file:doc/box_base_undefined.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the base.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design

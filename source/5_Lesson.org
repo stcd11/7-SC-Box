@@ -151,7 +151,7 @@ file:img/24_Box.jpg
 - Next glue the inner parts of the lid into place.
 file:img/25_Box.jpg
 - It should now look like this. Give your parts at least *40 minutes* to dry.
-file:img_26_Box.jpg
+file:img/26_Box.jpg
 ** Build It - Finishing off
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
@@ -169,7 +169,7 @@ file:img/31_Box.jpg
 - Use pliers and a screwdriver to screw the lid into place.
 file:img/32_Box.jpg
 - Lastly, get some polystyrene and place it in yout box to hold loose components.
-file:img/33_Box.jpg
+file:img/33_Box.JPG
 * Assessment
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
