@@ -164,7 +164,7 @@
 - To earn the Platinum *Best Mate* badge
   1. Import the remaining parts one at a time and mate them together to form a completed box.
      - [[file:doc/box_back.SLDPRT][Box Back]]
-     - [[file:doc/box_back.SLDPRT][Box Base]]
+     - [[file:doc/box_base.SLDPRT][Box Base]]
      - [[file:doc/box_front.SLDPRT][Box Front]]
      - [[file:doc/box_side.SLDPRT][Box Side]]
      - [[file:doc/lid_front.SLDPRT][Lid Front]]
