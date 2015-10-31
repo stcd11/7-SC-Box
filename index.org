@@ -3,13 +3,16 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Marc Scott
+#+AUTHOR: Stephen Brown
 
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/MarcScott/7-CS-Internet">Fork me on GitHub</a>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
 </div>
+<center>
+<img src='./source/img/box.png' width=50%>
+</center>
 #+END_HTML
 * [[file:pages/1_Lesson.html][Week 1 - Research]]
 :PROPERTIES:

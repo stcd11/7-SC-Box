@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Marc Scott
+#+AUTHOR: Stephen Brown
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -97,9 +97,9 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - To hold our projects for the year our box is going to need to meet the following criteria:
-  1. Be no smaller than 150mm x 50mm x 50mm
+  1. Be no smaller than 150mm x 150mm x 150mm
   2. Cost no more than £2
-  3. Stackable
+  3. Must be stackable
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
@@ -120,7 +120,7 @@
 :END:
 - We need to pick a suitable material from which to produce our box.
 - The material must meet the following criteria
-  1. Cost no more than £7 per square meter
+  1. Cost no more than £7 per square metre
   2. Can be cut on a laser cutter
   3. Can withstand mild bumps and knocks
 ** Research It
@@ -134,10 +134,12 @@
   - MDF
   - Balsa wood
   - Cardboard
-  - Ash wood
-  - Depleted Uranium
-** Document It
+  - Steel
+  - HIPs
+** Badge It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: document
+:HTML_CONTAINER_CLASS: badge
 :END:
-- Add images and Advantages/Disadvantages of the two materials you have chosen to your document.
+- *Silver:* Find three different storage boxes online, and identify at least one advantage and disadvantage of each. 
+- *Gold:* Find images of and describe properties of two different materials you could use to make a storage box. 
+- *Platinum*: Complete the above two tasks, including additional detail (E.g. Another material, additional advantages and disadvantages of boxes, etc)

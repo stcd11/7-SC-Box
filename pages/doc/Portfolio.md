@@ -1,6 +1,6 @@
 % 7-SC-Box
-% Marc Scott (7A)
-% 22nd September 2014
+% YOUR NAME HERE (7A)
+% 2nd November 2015
 
 # Research
 
