@@ -99,14 +99,14 @@
 :END:
 - Below is a photograph of the parts we're going to design using Solidworks.
 - Notice the finger-joints on each part.
-[[file:img/Base_and_Front.png]]
-- [[file:doc/base_front_task.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the front of the base of the box.
+[[file:img/First_parts.png]]
+- [[file:doc/Base_Front.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the front of the base of the box.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
 - Let's add some dimensions to the drawing you've opened in SolidWorks.
-- The instructions below will walk ou through the process of using the dimension tool to add the missing dimensions needed to finish this part.
+- The instructions below will walk you through the process of using the dimension tool to add the missing dimensions needed to finish this part.
 - When you are finished, your drawing should be *fully defined*.
 [[file:img/2_step_1.png]]
   1. Make sure the =Sketch= tab has been selected.
@@ -116,49 +116,31 @@
   4. Click the top line of the sketch and drag upwards a little.
   5. Release the mouse button and you should see the dimension has been added.
   6. This dimension should be 138mm so we can just click the green tick.
-- *DEV NOTE: CONTINUE ON FROM HERE* 
-[[file:img/3_step_3.png]]
-  7. Now let's dimension the far right hand line in the same way. It should be 60mm.
-[[file:img/Dimensioning_4.png]]
-  8. Now we'll dimension the space between the finger-joint and the edge of the base. Click on the far left line.
-  9. Now click on the left-hand side of the finger-joint as shown.
-  10. Drag upwards to position the dimension marker and click.
-  11. This dimension is incorrect so change it to 25mm and then click the green tick.
-[[file:img/Dimensioning_5.png]]
-  12. Do the same with the right hand finger-joint.
-  13. Your sketch should be fully defined.
+[[file:img/2_step_3.png]]
+  - As you look along the bottom edge, you may have noticed that there are some dimensions missing. In order for SolidWorks to fully understand our model, we'll need to add these in. Using Smart Dimension again, add the dimensions to the four bottom-left hand corner finger joints in the same way you did before. Each of these should be *13mm*.
+  - Your sketch should be fully defined.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
-- To finish off this sketch, we need to do some triming.
-[[file:img/Trim_1.png]]
+- To finish off this sketch, we need to do some triming. This allows us to delete lines that we don't want as we build our model parts.
+[[file:img/2_step_4.png]]
   1. Click on the trim tool in the toolbar.
-[[file:img/Trim_2.png]]
   2. From the context menu on the left of the screen, make sure =Trim to closest= has been selected.
-[[file:img/Trim_3.png]]
-  3. Now your cursor should now be displaying a scissor icon. Click on the upper line as shown in the diagram above. You will need to click twice to remove the line completely.
-[[file:img/Trim_4.png]]
-  4. You're sketch should now look a little like the one above.
-[[file:img/Trim_5.png]]
-  1. Use the trim tool to fashion the remaining finger-joints of the base.
-  2. Take a screen shot of your finished sketch for your portfolio.
-[[file:img/Trim_6.png]]
-  6. Some of the joints might be difficult to see, but if you click on the =Exit Sketch= button, then you'll see a clear drawing of your sketch.
-[[file:img/Trim_7.png]]
+  3. Now your cursor should now be displaying a scissor icon. Click on the upper line as shown in the diagram above. You will need to click twice to remove this line completely - you'll see why when you start designing your own parts.
+  4. The bottom corner also has some lines we don't need. Click once on each of these to remove them too.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
-- To turn a sketch into a part, we need to extrude it.
-[[file:img/Extrude_1.png]]
+- To turn a sketch into a 3D part, we need to extrude it.
+[[file:img/2_step_5.png]]
   1. Click the =Features= tab to get the 3D tool bar.
   2. Click on =Extruded Boss/Base=.
-[[file:img/Extrude_2.png]]
+[[file:img/2_step_6.png]]
   3. In the context menu on the left, change the Depth to 3mm, as this is the thickness of the MDF we are using.
   4. Click the green tick to carry out the extrusion
   5. Your part should now be complete, so take a screenshot for your portfolio.
-[[file:img/Extrude_3.png]]
 ** Badge It - Silver 3D Designer 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
