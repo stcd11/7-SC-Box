@@ -109,27 +109,37 @@
 4. You should see small green symbols. The first one shown means a point is =coincident= to a line. This is the same as saying it is touching the line.
 5. The second green symbols shown indicate that two lines are =Vertical=
 [[file:img/3_step_8.png]]
-1. 
-[[file:img/sketch_9.png]]
-1. Now that the finger joints have been added, we need to dimension them. Add dimensions so that your sketch is fully defined, like the one below.
-[[file:img/sketch_10.png]]
-1. We now need to add a cut out in our main shape.
-2. Use the centre rectangle tool to draw a rectangle /near/ to the center of the large rectangle.
-3. Dimension it so that is is 3mmx12mm and 6mm from the top.
-[[file:img/sketch_11.png]]
-1. Now we want to position the small rectangle in the /Horizontal/ centre of the large rectangle.
-2. Click on the middle of the large rectangle, then hold down the /Shift Key/ and click on the centre of the small rectangle.
-[[file:img/sketch_12.png]]
-1. Now from the context menu on the left of the screen, choose to add a =Vertical= relationship.
-2. Click the green tick. This will now ensure that the two rectangles are vertically aligned.
-[[file:img/sketch_13.png]]
-1. Your sketch should now be fully defined and look like the image below.
-2. Trim the finger joints next.
-[[file:img/sketch_14.png]]
-1. Exit your sketch.
-[[file:img/sketch_15.png]]
-1. Now extrude the sketch by 3mm to make your finished part. Save it as *Lid-Box-Front*.
-[[file:img/sketch_16.png]]
+1. Add dimensions to the horizontal and vertial edges of both rectangles.
+2. Click the bottom-right most point in the part (shown below).
+3. Click the point above it.
+4. Move the mouse slightly to the left, and click once again. Enter this distance as 7mm. 
+5. Repeat this process under the left-most rectangle.
+- Your part will now be fully defined again.
+[[file:img/3_step_9.png]]
+- Repeat this process for the five finger joints that need to go at the bottom of the finished shape. 
+- Use the circle tool to add a 3mm diameter circle in centre of the shape. This will be to help your box lock shut when its closed. It's a similar process to drawing a rectangle.
+- *Tip:* All the dimensions you need are shown at the top of this page. 
+- *Important:* Don't continue until your model is =Fully Defined=. 
+[[file:img/3_step_10.png]]
+- Now, use the *Trim* tool like before (don't forget to turn on 'Trim to Closest') to take out the unwanted parts of your model. 
+- You'll need to click *twice* on each line you want to remove. The first click removes the line created by drawing the smaller rectangle. The second click removes the piece of the very first rectangle you drew at the begininng of this process. 
+- Trim away all the unwanted parts until you get something looking like the image below:
+[[file:img/3_step_11.png]]
+- Click 'Exit Sketch' in the top-left hand corner of the screen.
+- Enter a depth of 3mm in the box to the left.
+- Click the green tick in the context menu to finish your part.
+[[file:img/3_step_12.png]]
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+- Save your work as lidFront.SLDPRT
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Upload a screenshot of your sketch (Before it is 3D) to collect the silver badge.
+- Make sure the 'Fully Defined' part of the screen is visible.
 * Creating a sketch from a design
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -143,8 +153,7 @@
   2. You need to draw, trim and fully define this sketch.
   3. Once you have completed that, extrude it by 3mm
   4. Take a screen shot of the full defined sketch and the 3d part for your portfolio.
-[[file:img/sketch_17.png]]
-[[file:img/sketch_18.png]]
+[[file:img/3_step_13.png]]
 * Creating a sketch from a real part
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -154,8 +163,8 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Platinum 3d Designer Badge
-  1. Find the part that looks like the image below.
+  1. Find the part that looks like the image below. It's the base of the box.
   2. Use a pair of calipers to measure the dimensions of the part carefully.
   3. Use SolidWorks to create your own sketch of the part and take a screenshot of it for your portfolio.
   4. Extrude the sketch to produce a 3D part and capture a screenshot for your portfolio.
-[[file:img/Box_Back.jpg]]
+[[file:img/3_step_14.png]]
