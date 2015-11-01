@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Marc Scott
+#+AUTHOR: Stephen Brown
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -75,7 +75,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Creating your own sketch
+* Part-y time
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -84,7 +84,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
-
 - Here is a picture of the piece we're trying to make.
 [[file:img/Box_Lid_Front.jpg]]
 1. Open up Solidworks and create a new file.
