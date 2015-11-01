@@ -85,31 +85,31 @@
 :HTML_CONTAINER_CLASS: design
 :END:
 - Here is a picture of the piece we're trying to make.
-[[file:img/Box_Lid_Front.jpg]]
+[[file:img/3_step_1.png]]
 1. Open up Solidworks and create a new file.
-[[file:img/sketch_1.png]]
+[[file:img/3_step_2.png]]
 1. Choose the option to make a =Part=.
 2. Click =OK=.
-[[file:img/sketch_2.png]]
-1. We're going to start off with a rectangle. Find the rectangle tool in the toolbar and click the small arrow to the right of it. This will bring up a context menu, allowing you to choose different types of rectangle.
-2. We want to use the =Centre Rectangle=
-[[file:img/sketch_3.png]]
-1. Now Solidworks will ask you to choose which =Plane= you want to start your sketch in. We'll choose the =Top Plane= by clicking on it.
-[[file:img/sketch_4.png]]
-1. If you want to change your view at any time, you can use the view tool bar at the top of the screen.
-2. It'll be easiest if we're in the =Top= view.
-[[file:img/sketch_5.png]]
-1. Now, this next part is important. You need to start drawing your rectangle in the centre of the 3D environment. You should see a pair of arrows indicating the =origin=. This is where the rectangle should start.
-[[file:img/sketch_6.png]]
-1. Don't worry about the size of the rectangle. Just drag it out to any size. Then use the =Smart Dimentsion= tool you used in the last lesson to set the rectangle's dimensiions, as shown below
-[[file:img/sketch_7.png]]
-1. Your sketch should be =Fully Defined= at the moment.
-2. Next we'll add some finger joints.
-3. This time we want to use the =Corner Rectangle=
-[[file:img/sketch_8.png]]
-1. Add rectangles as shown below. Make sure that each Rectangle starts being draw on the lines of the large rectangle in the middle.
-2. You should see small green symbols. The first one shown means a point is =coincident= to a line. This is the same as saying it is touching the line.
-3. The second green symbols shown indicate that two lines are =Vertical=
+[[file:img/3_step_3.png]]
+1. Ensure the 'Features' tab is selected, then choose 'Extruded Boss/Base'.
+[[file:img/3_step_4.png]]
+1. Now Solidworks will ask you to choose which =Plane= you want to start your sketch in. We'll choose the =Front Plane= by clicking on it.
+[[file:img/3_step_5.png]]
+1. Ensure the 'Sketch' tab is selected, then locate the =Corner Rectangle= tool. 
+2. *IMPORTANT:* Whenever you start a new sketch, the very first shape you draw must start on the red 'origin' point to allow it to be fully defined. You'll notice a little orange circle appears as you hover your mouse over the point. Once here, click and hold the left mouse button.
+3. Drag the mouse up and to the right until the rectangle is approximately 138x22mm. We're going to add dimensions later, so you don't need to be too accurate.  
+[[file:img/3_step_6.png]]
+1. Choose the 'Smart Dimension' tool.
+2. Set the width to 138mm, and the height to 22mm.
+3. *CHECKPOINT:* In the bottom-right hand corner of the screen, you should see the words, 'Fully Defined'. If not, re-check you've followed all the steps above so far.
+[[file:img/3_step_7.png]]
+1. Next we'll add some finger joints.
+2. Select the =Corner Rectangle= again.
+3. Draw two rectangles on the sides of the main rectangle. These are going to be our finger joints. Make sure that one edge of your rectangle overlaps the main rectangle. The size isn't overly important, but aim for 3mm wide and about 10mm tall like in the picture below.
+4. You should see small green symbols. The first one shown means a point is =coincident= to a line. This is the same as saying it is touching the line.
+5. The second green symbols shown indicate that two lines are =Vertical=
+[[file:img/3_step_8.png]]
+1. 
 [[file:img/sketch_9.png]]
 1. Now that the finger joints have been added, we need to dimension them. Add dimensions so that your sketch is fully defined, like the one below.
 [[file:img/sketch_10.png]]
