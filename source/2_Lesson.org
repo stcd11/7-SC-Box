@@ -100,13 +100,13 @@
 - Below is a photograph of the parts we're going to design using Solidworks.
 - Notice the finger-joints on each part.
 [[file:img/Base_and_Front.png]]
-- [[file:doc/box_base_undefined.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the catch on the front of the base.
+- [[file:doc/base_front_task.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the front of the base of the box.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
 - Let's add some dimensions to the drawing you've opened in SolidWorks.
-- Use the dimension tool to add the missing dimensions as shown in the image guide below.
+- The instructions below will walk ou through the process of using the dimension tool to add the missing dimensions needed to finish this part.
 - When you are finished, your drawing should be *fully defined*.
 [[file:img/2_step_1.png]]
   1. Make sure the =Sketch= tab has been selected.
@@ -116,7 +116,8 @@
   4. Click the top line of the sketch and drag upwards a little.
   5. Release the mouse button and you should see the dimension has been added.
   6. This dimension should be 138mm so we can just click the green tick.
-[[file:img/Dimensioning_3.png]]
+- *DEV NOTE: CONTINUE ON FROM HERE* 
+[[file:img/3_step_3.png]]
   7. Now let's dimension the far right hand line in the same way. It should be 60mm.
 [[file:img/Dimensioning_4.png]]
   8. Now we'll dimension the space between the finger-joint and the edge of the base. Click on the far left line.
