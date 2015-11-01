@@ -74,7 +74,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Defining and Trimming Solidworks sketches
+* Sketchy Character
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -141,13 +141,16 @@
   3. In the context menu on the left, change the Depth to 3mm, as this is the thickness of the MDF we are using.
   4. Click the green tick to carry out the extrusion
   5. Your part should now be complete, so take a screenshot for your portfolio.
-** Badge It - Silver 3D Designer 
+** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Now let's see if you can dimension, trim and extrude a sketch on your own.
-- [[file:doc/box_front_undefined.SLDPRT][Download this file]] and open it in Solidworks.
+- [[file:doc/sides_undefined.SLDPRT][Download this file]] and open it in Solidworks. This will be the sides of the box; when you've got a full set of parts, you'll use this one four times to build the box.
 - Here is the finished sketch that you need to create, showing all the relevant dimensions.
-[[file:img/Box_front.png]]
+[[file:img/badge_task.png]]
 - When you have finished the sketch, you'll need to extrude it by 3mm.
 - Take screenshots of your finished sketch and part and then add them to your Portfolio.
+- *Silver:* Part is trimmed, some dimensions added.
+- *Gold:* Part is fully defined and extruded.
+- *Platinum:* Change its appearance to 'rough pine' to match the image in the 'Design it' section. 
