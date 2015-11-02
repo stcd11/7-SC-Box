@@ -37,7 +37,11 @@
 :HTML_CONTAINER_CLASS: link-heading
 :END:
 
-* [[file:pages/6_Lesson.html][Additional SolidWorks Help]]
+* [[file:pages/6_Lesson.html][Week 6 - Judgement Day]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
+* [[file:pages/7_Lesson.html][Additional SolidWorks Help]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:

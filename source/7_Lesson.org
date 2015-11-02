@@ -74,28 +74,24 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* Evaluation
+* Additional SolidWorks Help
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Test It
+** Try It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: test
+:HTML_CONTAINER_CLASS: try
 :END:
-- Now that you've finished the project, it's time to reflect on the work.
-- You've made just one box. what if we wanted to make 100 of them, or 1000? 
-- What could be done to manufacture the boxes faster? 
-- Is MDF the best material to use? What could be use instead? Why would that be better? Would there be any negative points to using that?
-- What do you like the most about the box? What don't you like? 
-** Badge It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-- Write an evaluation of your work by answering the following questions:
-   - Why is it important to test a product before putting it on sale?
-   - What is good about your box?
-   - What isn't so good?
-   - If you were to make it again right now, how could it be improved? 
-- *Silver:* Identify why its important to test products.
-- *Gold:* Identify areas of strength and weakness of your box
-- *Platinum:* As for gold but in more detail, and suggest at least one area for improvement. 
+- The School has home licences for the MS Windows version of SolidWorks, allowing you to install it at home for free. To pick up your copy, follow the instructions in the file located in:
+   - =G:\Systems and Control\Student Home software\Solidworks.txt=
+
+
+
+- If you need a little practice at using SolidWorks, here are a few video tutorials that will guide you through making a simple letter rack in SolidWorks, from building sketches to mating them together in an assembly...
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pw2K8tAtLHs" frameborder="0" allowfullscreen></iframe>
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlpAn7Rvolc?list=PLjwXcI6i_ZJHFMidPPHUNImmMUon14GYg" frameborder="0" allowfullscreen></iframe>
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HIr6I7O42rk?list=PLjwXcI6i_ZJHFMidPPHUNImmMUon14GYg" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
