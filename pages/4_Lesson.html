@@ -142,7 +142,7 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Making an assembley using mates.</a>
+<li><a href="#sec-1">1. Ahoy, Mate-y</a>
 <ul>
 <li><a href="#sec-1-1">Learn It</a></li>
 <li><a href="#sec-1-2">Design It</a></li>
@@ -159,11 +159,11 @@ for the JavaScript code in this tag.
 </div>
 </div>
 <div class=ribbon>
-<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
 </div>
 
 <div id="outline-container-sec-1" class="outline-2 activity">
-<h2 id="sec-1"><span class="section-number-2">1</span> Making an assembley using mates.</h2>
+<h2 id="sec-1"><span class="section-number-2">1</span> Ahoy, Mate-y</h2>
 <div class="outline-text-2" id="text-1">
 </div>
 <div id="outline-container-sec-1-1" class="outline-3 learn">
@@ -174,14 +174,14 @@ for the JavaScript code in this tag.
 </li>
 <li>Just like sketches, assemblies need to be fully defined, so that the distances between parts are known by the software,
 </li>
-<li>To accomplish this we use <code>mates</code>.
+<li>To accomplish this we use <code>mates</code>. It's rather like building a jigsaw puzzle, but in three dimensions. 
 </li>
-<li>This is the assembly we're going to make.
+<li>This is the assembly we're going to make. I've added some materials to mine to give it the look of a wood finish and added a background image, but this is just cosmetic&#x2026;
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/front-base-back.jpg" alt="front-base-back.jpg" />
+<p><img src="img/box.png" alt="box.png" />
 </p>
 </div>
 </div>
@@ -212,147 +212,100 @@ for the JavaScript code in this tag.
 </p>
 </div>
 <ul class="org-ul">
-<li>If you struggle to find your parts, or they have not been made correctly, then you can use the ones linked here.
-</li>
-</ul>
-<p>
-<a href="doc/box_base.SLDPRT">Box Base</a>  
-<a href="doc/box_back.SLDPRT">Box Back</a>  
-<a href="doc/box_front.SLDPRT">Box Front</a>  
-</p>
-<ul class="org-ul">
-<li>Once the part has been imported, click in the view port to place the part.
+<li>Click in the main window space to place the part. 
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_3.png" alt="Assembly_3.png" />
+<p><img src="img/4_step_1.png" alt="4_step_1.png" />
 </p>
 </div>
 <ul class="org-ul">
-<li>Next we need to insert the Box-Back into our assembley.
+<li>Download these parts into your Documents area to get you started:
+<ul class="org-ul">
+<li><a href="doc/Finished_Model/Base_Bottom.SLDPRT">Box Base</a>  
 </li>
-<li>Click on the <code>Insert Components</code> button in the tool bar and then select your Box-Back part.
+<li><a href="doc/Finished_Model/Base_Back.SLDPRT">Base Back</a>  
+</li>
+</ul>
+</li>
+<li>Next we need to insert the <code>Base_Back</code> into our assembly.
+</li>
+<li>Click on the <code>Insert Components</code> button in the tool bar (located in the 'Assembly' Tab), select your <code>Base_Back</code> part and place it near the back of the model with a click.
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_4.png" alt="Assembly_4.png" />
+<p><img src="img/4_step_2.png" alt="4_step_2.png" />
 </p>
 </div>
-<ul class="org-ul">
-<li>You can now move the part around and get an approximate position to place it. Don;t worry about being accurate here.
-</li>
-</ul>
 
-<div class="figure">
-<p><img src="img/Assembly_5.png" alt="Assembly_5.png" />
-</p>
-</div>
 <ul class="org-ul">
-<li>Now we need to rotate the part into an approximation of it's correct orientation.
-</li>
-<li>Select the box<sub>back</sub> part.
-</li>
-</ul>
-
-<div class="figure">
-<p><img src="img/Assembly_6.png" alt="Assembly_6.png" />
-</p>
-</div>
-<ul class="org-ul">
-<li>Next
-<ol class="org-ol">
-<li>Click on the <code>Move Component</code> button
-</li>
-<li>Click on the <code>Rotate Component</code> option from the contect menu.
-</li>
-</ol>
-</li>
-</ul>
-
-<div class="figure">
-<p><img src="img/Assembly_8.png" alt="Assembly_8.png" />
-</p>
-</div>
-<ul class="org-ul">
-<li>Now you can rotate the part into the correct orientation. Again, you don't need to be accurate here. Just position the piece so that the finger joints are pointing downwards.
-</li>
-</ul>
-
-<div class="figure">
-<p><img src="img/Assembly_9.png" alt="Assembly_9.png" />
-</p>
-</div>
-<ul class="org-ul">
-<li>Now the process of mating can begin.
+<li>Now the parts can be mated together.
 </li>
 <li>Mating involves matching <code>faces</code> that are <code>coincident</code> with each other. This can mean they are either touching each other (as if glued together) or perfectly inline with each other. Usually you'll need <b>3</b> mates to fully define the position of any part. This will lock the part on the X, Y and Z axis.
 </li>
-<li>Select the inner face of the back of the box.
+<li>At the top of the SolidWorks window, click the 'Mate' tool.
+</li>
+<li>Click once to select the inner face of the back of the box.
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_10.png" alt="Assembly_10.png" />
+<p><img src="img/4_step_3.png" alt="4_step_3.png" />
 </p>
 </div>
 <ul class="org-ul">
-<li>Now change your view so that you can see the reverse side of the assembley and use the <code>SHIFT KEY</code> to click and select the inner face of either of the finger joints on the base of the box.
+<li>Click and hold the middle mouse button to spin the model (or use the arrow keys on the keyboard) to reveal the back of the base of the box.
 </li>
-</ul>
-
-<div class="figure">
-<p><img src="img/Assembly_11.png" alt="Assembly_11.png" />
-</p>
-</div>
-<ul class="org-ul">
-<li>Now click the <code>Mate</code> button from the toolbar
+<li>Click to select the <b>inner face</b> of either of one of the finger joints on the base of the box. You'll probably see the part move slightly as the parts are mated.
 </li>
-</ul>
-
-<div class="figure">
-<p><img src="img/Assembly_12.png" alt="Assembly_12.png" />
-</p>
-</div>
-<ul class="org-ul">
 <li>The software will default to a coincident relationship, so we can just click the green tick.
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_13.png" alt="Assembly_13.png" />
+<p><img src="img/4_step_4.png" alt="4_step_4.png" />
 </p>
 </div>
+
 <ul class="org-ul">
-<li>That's one mate completed and two more to go.
+<li>That's one mate completed&#x2026; Two more to go.
 </li>
-<li>Select the lower face of one of the finger joints of the back of the box, and use the shift key to also select the lower face of the base.
+<li>Select the outside face of one of the finger joints along the side of the base of the box, then select the outermost face of the <code>base_back</code> part.
+</li>
+<li>Click the green tick like last time to mate the parts on this axis.
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_14.png" alt="Assembly_14.png" />
+<p><img src="img/4_step_5.png" alt="4_step_5.png" />
 </p>
 </div>
 <ul class="org-ul">
-<li>Now mate the two parts again.
+<li>Lastly we need to select the matching faces of the bottom of the base and the back part.
 </li>
-<li>Lastly we need to select the matching faces of the finger joints of bothe the back and base part.
+<li>Flip the model upside down (clicking and holding the middle mouse bottom again).
+</li>
+<li>Select the bottom of the base,
+</li>
+<li>Select one of the bottom faces of the back part.
+</li>
+<li>Click the green tick to confirm the mate.
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_15.png" alt="Assembly_15.png" />
+<p><img src="img/4_step_6.png" alt="4_step_6.png" />
 </p>
 </div>
 <ul class="org-ul">
-<li>Mate the parts and you should see that your assembley has been fully defined.
+<li>You should now see that your assembley has been fully defined.
 </li>
 </ul>
 
 <div class="figure">
-<p><img src="img/Assembly_16.png" alt="Assembly_16.png" />
+<p><img src="img/4_step_7.png" alt="4_step_7.png" />
 </p>
 </div>
 </div>
@@ -369,13 +322,15 @@ for the JavaScript code in this tag.
 <ul class="org-ul">
 <li>To earn the Silver <b>Best Mate</b> badge
 <ol class="org-ol">
-<li>Import the <a href="doc/box_front.SLDPRT">front of the box</a>.
+<li>Download and import the <code>[[file:doc/Finished_Model/Base_Front_Catch.SLDPRT][front catch]]</code> part.
 </li>
-<li>Mate it to the base so that your assembly is fully defined.
+<li>Mate it to the front of base so that your assembly is fully defined.
 </li>
 <li>Screen shot your assembly for your portfolio.
 </li>
 </ol>
+</li>
+<li><b>IMPORTANT:</b> Note that this will sit inside the finger joints when finished and leave a slight gap. This is because there is another part to sit in front of it; the gold badge takes care of this.
 </li>
 </ul>
 </div>
@@ -386,9 +341,9 @@ for the JavaScript code in this tag.
 <ul class="org-ul">
 <li>To earn the Gold <b>Best Mate</b> badge
 <ol class="org-ol">
-<li>Import the <a href="doc/box_side.SLDPRT">side part of the box</a>.
+<li>Import the <a href="doc/Finished_Model/Base_Side.SLDPRT">side part of the box</a> and the <a href="doc/Finished_Model/Base_Side.SLDPRT">front of the box</a>.
 </li>
-<li>Mate this part correctly and then import it again and mate it on the other side.
+<li>Mate these part correctly to form the next parts of the box.
 </li>
 <li>You should now have a completed box that is missing a lid.
 </li>
@@ -403,27 +358,21 @@ for the JavaScript code in this tag.
 <ul class="org-ul">
 <li>To earn the Platinum <b>Best Mate</b> badge
 <ol class="org-ol">
-<li>Import the remaining parts one at a time and mate them together to form a completed box.
+<li>Import the remaining parts one at a time and mate them together to form a completed box. You'll use the 'Sides' part twice. It's the same part you've used already on the base.
 <ul class="org-ul">
-<li><a href="doc/box_back.SLDPRT">Box Back</a>
+<li><a href="doc/Finished_Model/lid_top.SLDPRT">Box top</a>
 </li>
-<li><a href="doc/box_base.SLDPRT">Box Base</a>
+<li><a href="doc/Finished_Model/Top_Front.SLDPRT">Top Front</a>
 </li>
-<li><a href="doc/box_front.SLDPRT">Box Front</a>
+<li><a href="doc/Finished_Model/Sides.SLDPRT">Box sides</a>
 </li>
-<li><a href="doc/box_side.SLDPRT">Box Side</a>
+<li><a href="doc/Finished_Model/Hinge1.SLDPRT">Hinge part 1</a>
 </li>
-<li><a href="doc/lid_front.SLDPRT">Lid Front</a>
-</li>
-<li><a href="doc/lid_side_inner.SLDPRT">Lid Side Inner</a>
-</li>
-<li><a href="doc/lid_side_outer.SLDPRT">Lid Side Outer</a>
-</li>
-<li><a href="doc/lid_top.SLDPRT">Lid Top</a>
+<li><a href="doc/Finished_Model/Hinge2.SLDPRT">Hinge part 2</a>
 </li>
 </ul>
 </li>
-<li>You might need your teacher's assistance to mate the lid parts to the box body.
+<li>You might need your teacher's assistance to mate the lid parts to the box body. It requires you to use a special type of mate, called a 'Hinge Mate'. You may be able to use Google to research how to use that feature.
 </li>
 <li>You should now have a completed box.
 </li>
