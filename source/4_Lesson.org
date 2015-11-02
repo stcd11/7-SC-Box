@@ -156,11 +156,11 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Platinum *Best Mate* badge
-  1. Import the remaining parts one at a time and mate them together to form a completed box. You'll use the 'Sides' part twice. It's the same part you've used already on the base.
+  1. Import the remaining parts for the lid and hinge one at a time and mate them together to form a completed box. The parts can be downloaded here:
      - [[file:doc/Finished_Model/lid_top.SLDPRT][Box top]]
      - [[file:doc/Finished_Model/Top_Front.SLDPRT][Top Front]]
-     - [[file:doc/Finished_Model/Sides.SLDPRT][Box sides]]
+     - [[file:doc/Finished_Model/Sides.SLDPRT][Box Lid sides]]
      - [[file:doc/Finished_Model/Hinge1.SLDPRT][Hinge part 1]]
      - [[file:doc/Finished_Model/Hinge2.SLDPRT][Hinge part 2]]
-  2. You might need your teacher's assistance to mate the lid parts to the box body. It requires you to use a special type of mate, called a 'Hinge Mate'. You may be able to use Google to research how to use that feature.
+  2. You might need your teacher's assistance to mate the lid parts to the box body. It requires you to use a special type of mate, called a 'Hinge Mate'. You may be able to search the web to research how to use that feature.
   3. You should now have a completed box.
