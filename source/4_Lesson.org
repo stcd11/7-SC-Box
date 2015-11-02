@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Marc Scott
+#+AUTHOR: Stephen Brown
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/MarcScott/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -75,7 +75,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Making an assembley using mates.
+* Ahoy, Mate-y
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -85,9 +85,9 @@
 :END:
 - In SolidWorks, an assembly is a collection of 3D parts.
 - Just like sketches, assemblies need to be fully defined, so that the distances between parts are known by the software,
-- To accomplish this we use =mates=.
-- This is the assembly we're going to make.
-[[file:img/front-base-back.jpg]]
+- To accomplish this we use =mates=. It's rather like building a jigsaw puzzle, but in three dimensions. 
+- This is the assembly we're going to make. I've added some materials to mine to give it the look of a wood finish and added a background image, but this is just cosmetic...
+[[file:img/box.png]]
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
@@ -98,44 +98,37 @@
 [[file:img/Assembly_1.png]]
 - Click on Browse and find the Base part you made in a previous lesson.
 [[file:img/Assembly_2.png]]
-- If you struggle to find your parts, or they have not been made correctly, then you can use the ones linked here.
-[[file:doc/box_base.SLDPRT][Box Base]]  
-[[file:doc/box_back.SLDPRT][Box Back]]  
-[[file:doc/box_front.SLDPRT][Box Front]]  
-- Once the part has been imported, click in the view port to place the part.
-[[file:img/Assembly_3.png]]
-- Next we need to insert the Box-Back into our assembley.
-- Click on the =Insert Components= button in the tool bar and then select your Box-Back part.
-[[file:img/Assembly_4.png]]
-- You can now move the part around and get an approximate position to place it. Don;t worry about being accurate here.
-[[file:img/Assembly_5.png]]
-- Now we need to rotate the part into an approximation of it's correct orientation.
-- Select the box_back part.
-[[file:img/Assembly_6.png]]
-- Next
-  1. Click on the =Move Component= button
-  2. Click on the =Rotate Component= option from the contect menu.
-[[file:img/Assembly_8.png]]
-- Now you can rotate the part into the correct orientation. Again, you don't need to be accurate here. Just position the piece so that the finger joints are pointing downwards.
-[[file:img/Assembly_9.png]]
-- Now the process of mating can begin.
+- Click in the main window space to place the part. 
+[[file:img/4_step_1.png]]
+- Download these parts into your Documents area to get you started:
+    - [[file:doc/Finished_Model/Base_Bottom.SLDPRT][Box Base]]  
+    - [[file:doc/Finished_Model/Base_Back.SLDPRT][Base Back]]  
+- Next we need to insert the =Base_Back= into our assembly.
+- Click on the =Insert Components= button in the tool bar (located in the 'Assembly' Tab), select your =Base_Back= part and place it near the back of the model with a click.
+[[file:img/4_step_2.png]]
+
+- Now the parts can be mated together.
 - Mating involves matching =faces= that are =coincident= with each other. This can mean they are either touching each other (as if glued together) or perfectly inline with each other. Usually you'll need *3* mates to fully define the position of any part. This will lock the part on the X, Y and Z axis.
-- Select the inner face of the back of the box.
-[[file:img/Assembly_10.png]]
-- Now change your view so that you can see the reverse side of the assembley and use the =SHIFT KEY= to click and select the inner face of either of the finger joints on the base of the box.
-[[file:img/Assembly_11.png]]
-- Now click the =Mate= button from the toolbar
-[[file:img/Assembly_12.png]]
+1. At the top of the SolidWorks window, click the 'Mate' tool.
+2. Click once to select the inner face of the back of the box.
+[[file:img/4_step_3.png]]
+- Click and hold the middle mouse button to spin the model (or use the arrow keys on the keyboard) to reveal the back of the base of the box.
+- Click to select the *inner face* of either of one of the finger joints on the base of the box. You'll probably see the part move slightly as the parts are mated.
 - The software will default to a coincident relationship, so we can just click the green tick.
-[[file:img/Assembly_13.png]]
-- That's one mate completed and two more to go.
-- Select the lower face of one of the finger joints of the back of the box, and use the shift key to also select the lower face of the base.
-[[file:img/Assembly_14.png]]
-- Now mate the two parts again.
-- Lastly we need to select the matching faces of the finger joints of bothe the back and base part.
-[[file:img/Assembly_15.png]]
-- Mate the parts and you should see that your assembley has been fully defined.
-[[file:img/Assembly_16.png]]
+[[file:img/4_step_4.png]]
+
+- That's one mate completed... Two more to go.
+- Select the outside face of one of the finger joints along the side of the base of the box, then select the outermost face of the =base_back= part.
+- Click the green tick like last time to mate the parts on this axis.
+[[file:img/4_step_5.png]]
+- Lastly we need to select the matching faces of the bottom of the base and the back part.
+- Flip the model upside down (clicking and holding the middle mouse bottom again).
+1. Select the bottom of the base,
+2. Select one of the bottom faces of the back part.
+3. Click the green tick to confirm the mate.
+[[file:img/4_step_6.png]]
+- You should now see that your assembley has been fully defined.
+[[file:img/4_step_7.png]]
 
 * Mating a part independently
 :PROPERTIES:
@@ -146,31 +139,28 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Silver *Best Mate* badge
-  1. Import the [[file:doc/box_front.SLDPRT][front of the box]].
-  2. Mate it to the base so that your assembly is fully defined.
+  1. Download and import the =[[file:doc/Finished_Model/Base_Front_Catch.SLDPRT][front catch]]= part.
+  2. Mate it to the front of base so that your assembly is fully defined.
   3. Screen shot your assembly for your portfolio.
+- *IMPORTANT:* Note that this will sit inside the finger joints when finished and leave a slight gap. This is because there is another part to sit in front of it; the gold badge takes care of this.
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Gold *Best Mate* badge
-  1. Import the [[file:doc/box_side.SLDPRT][side part of the box]].
-  2. Mate this part correctly and then import it again and mate it on the other side.
+  1. Import the [[file:doc/Finished_Model/Base_Side.SLDPRT][side part of the box]] and the [[file:doc/Finished_Model/Base_Side.SLDPRT][front of the box]].
+  2. Mate these part correctly to form the next parts of the box.
   3. You should now have a completed box that is missing a lid.
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Platinum *Best Mate* badge
-  1. Import the remaining parts one at a time and mate them together to form a completed box.
-     - [[file:doc/box_back.SLDPRT][Box Back]]
-     - [[file:doc/box_base.SLDPRT][Box Base]]
-     - [[file:doc/box_front.SLDPRT][Box Front]]
-     - [[file:doc/box_side.SLDPRT][Box Side]]
-     - [[file:doc/lid_front.SLDPRT][Lid Front]]
-     - [[file:doc/lid_side_inner.SLDPRT][Lid Side Inner]]
-     - [[file:doc/lid_side_outer.SLDPRT][Lid Side Outer]]
-     - [[file:doc/lid_top.SLDPRT][Lid Top]]
-  2. You might need your teacher's assistance to mate the lid parts to the box body.
+  1. Import the remaining parts one at a time and mate them together to form a completed box. You'll use the 'Sides' part twice. It's the same part you've used already on the base.
+     - [[file:doc/Finished_Model/lid_top.SLDPRT][Box top]]
+     - [[file:doc/Finished_Model/Top_Front.SLDPRT][Top Front]]
+     - [[file:doc/Finished_Model/Sides.SLDPRT][Box sides]]
+     - [[file:doc/Finished_Model/Hinge1.SLDPRT][Hinge part 1]]
+     - [[file:doc/Finished_Model/Hinge2.SLDPRT][Hinge part 2]]
+  2. You might need your teacher's assistance to mate the lid parts to the box body. It requires you to use a special type of mate, called a 'Hinge Mate'. You may be able to use Google to research how to use that feature.
   3. You should now have a completed box.
-     
