@@ -155,7 +155,8 @@
 - Here is the finished sketch that you need to create, showing all the relevant dimensions.
 [[file:img/badge_task.png]]
 - When you have finished the sketch, you'll need to extrude it by 3mm.
-- Take screenshots of your finished sketch and part and then add them to your Portfolio.
+- *Take A SCREENSHOT of your finished sketch and part and then add them to www.bournetolearn.com*
+- *ENSURE YOU ONLY UPLOAD THE IMAGE ONCE*
 - *Silver:* Part is trimmed, some dimensions added.
 - *Gold:* Part is fully defined and extruded.
 - *Platinum:* Change its appearance to 'rough pine' to match the image in the 'Design it' section. 
