@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -140,6 +140,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- *Silver:* Find three different storage boxes online, and identify at least one advantage and disadvantage of each. 
-- *Gold:* Find images of and describe properties of two different materials you could use to make a storage box. 
-- *Platinum*: Complete the above two tasks, including additional detail (E.g. Another material, additional advantages and disadvantages of boxes, etc)
+- To complete the badges you will need to click on the link at the bottom and complete the quiz. This will automatically badge your work.
+- *You will need to be logged into [[http://www.bournetolearn.com][www.bournetolearn.com]] to complete the badge.*
+- Click on this link [[https://www.bournetolearn.com/quizzes/y7-storageBox/Lesson_1/][Storage box quiz]] 

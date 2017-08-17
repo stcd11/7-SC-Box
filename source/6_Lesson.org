@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -91,11 +91,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Write an evaluation of your work by answering the following questions:
-   - Why is it important to test a product before putting it on sale?
-   - What is good about your box?
-   - What isn't so good?
-   - If you were to make it again right now, how could it be improved? 
-- *Silver:* Identify why its important to test products.
-- *Gold:* Identify areas of strength and weakness of your box
-- *Platinum:* As for gold but in more detail, and suggest at least one area for improvement. 
+- To complete the badges you will need to click on the link at the bottom and complete the quiz. This will automatically badge your work.
+- *You will need to be logged into [[http://www.bournetolearn.com][www.bournetolearn.com]] to complete the badge.*
+- Click on this link [[https://www.bournetolearn.com/quizzes/y7-storageBox/Lesson_2/][final evaluation]] 
+ 

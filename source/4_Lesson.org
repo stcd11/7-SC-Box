@@ -3,11 +3,11 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
 #+TITLE: A Project Storage Box
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown nd C. Delport
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/7-SC-Box">Fork me on GitHub</a>
 </div>
 #+END_HTML
 
@@ -134,6 +134,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+- *Please only upload one screenshot of your work to either silver, gold or platinum. Use your own self assessment to decide where you think your work best fits.*
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge

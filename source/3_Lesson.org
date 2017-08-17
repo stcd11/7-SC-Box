@@ -134,21 +134,15 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 - Save your work as lidFront.SLDPRT
-** Badge It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: design
-:END:
-- Upload a screenshot of your sketch (Before it is 3D) to collect the silver badge.
-- Make sure the 'Fully Defined' part of the screen is visible.
 * Creating a sketch from a design
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Badge It - Gold 3D Designer
+** 3D Designer
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- To earn the Gold 3d Designer Badge
+- Complete the task below.
   1. Look at the sketch below.
   2. You need to draw, trim and fully define this sketch.
   3. Once you have completed that, extrude it by 3mm
@@ -158,11 +152,11 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Badge It - Platinum 3D Designer
+** 3D Designer part 2 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- To earn the Platinum 3d Designer Badge
+- Complete the task below
   1. Find the part that looks like the image below. It's the base of the box.
   2. Use a pair of calipers to measure the dimensions of the part carefully.
   3. Use SolidWorks to create your own sketch of the part and take a screenshot of it for your portfolio.
