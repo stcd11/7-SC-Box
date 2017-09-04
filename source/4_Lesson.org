@@ -102,7 +102,7 @@
 [[file:img/4_step_1.png]]
 - Download these parts into your Documents area to get you started:
     - [[file:doc/Finished_Model/Base_Bottom.SLDPRT][Box Base]]  
-    - [[file:doc/Finished_Model/Base_Back.SLDPRT][Base Back]]  
+    - [[file:doc/Finished_Model/Base_Back.SLDPRT][Base Back]] 
 - Next we need to insert the =Base_Back= into our assembly.
 - Click on the =Insert Components= button in the tool bar (located in the 'Assembly' Tab), select your =Base_Back= part and place it near the back of the model with a click.
 [[file:img/4_step_2.png]]
@@ -160,8 +160,9 @@
   1. Import the remaining parts for the lid and hinge one at a time and mate them together to form a completed box. The parts can be downloaded here:
      - [[file:doc/Finished_Model/lid_top.SLDPRT][Box top]]
      - [[file:doc/Finished_Model/Top_Front.SLDPRT][Top Front]]
-     - [[file:doc/Finished_Model/Sides.SLDPRT][Box Lid sides]]
-     - [[file:doc/Finished_Model/Hinge1.SLDPRT][Hinge part 1]]
-     - [[file:doc/Finished_Model/Hinge2.SLDPRT][Hinge part 2]]
+     - [[file:doc/Finished_Model/Sides.SLDPRT][Box Lid side 1]]
+     - [[file:doc/Finished_Model/Hinge1.SLDPRT][Box lid side 2]]
+     - [[file:doc/Finished_Model/Hinge2.SLDPRT][Base side]]
+     - [[file:doc/Finished_Model/Front_catch.SLDPRT][Inner catch]]
   2. You might need your teacher's assistance to mate the lid parts to the box body. It requires you to use a special type of mate, called a 'Hinge Mate'. You may be able to search the web to research how to use that feature.
   3. You should now have a completed box.

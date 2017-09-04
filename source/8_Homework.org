@@ -74,7 +74,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* Homework Tasks
+* Extension Tasks
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -83,7 +83,6 @@
 :HTML_CONTAINER_CLASS: design
 :END:
 - Using a pencil and paper, design your box in 3D. This will develop your drawing skills.
-- Either hand in your drawing, with your form and name on, or take a photo of your work with a phone or camera, email to yourself and update to Bourne to Learn.com
 
 ** 2. Explain It
 :PROPERTIES:

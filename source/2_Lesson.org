@@ -164,4 +164,4 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-- Save the badge task file in your Documents as *side.SLDPRT*
+- Save the badge task file in your Documents as *Back.SLDPRT*
