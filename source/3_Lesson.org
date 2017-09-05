@@ -147,7 +147,7 @@
   2. You need to draw, trim and fully define this sketch.
   3. Once you have completed that, extrude it by 3mm
   4. Take a screen shot of the full defined sketch and the 3d part for your portfolio.
-[[file:img/3_step_13.png]]
+[[file:img/3_step_14.png]]
 * Creating a sketch from a real part
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -161,4 +161,4 @@
   2. Use a pair of calipers to measure the dimensions of the part carefully.
   3. Use SolidWorks to create your own sketch of the part and take a screenshot of it for your portfolio.
   4. Extrude the sketch to produce a 3D part and capture a screenshot for your portfolio.
-[[file:img/3_step_14.png]]
+[[file:img/3_step_15.png]]
