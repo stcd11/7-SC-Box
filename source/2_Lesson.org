@@ -155,7 +155,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Now let's see if you can dimension, trim and extrude a sketch on your own.
-- [[file:doc/sides_undefined.SLDPRT][Download this file]] and open it in Solidworks. This will be the sides of the box; when you've got a full set of parts, you'll use this one four times to build the box.
+- [[file:doc/sides_undefined.SLDPRT][Download this file]] and open it in Solidworks. This will be the back of the box.
 - Here is the finished sketch that you need to create, showing all the relevant dimensions.
 [[file:img/badge_task.png]]
 - When you have finished the sketch, you'll need to extrude it by 3mm.
