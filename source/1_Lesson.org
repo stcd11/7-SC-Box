@@ -84,7 +84,7 @@
 - The aims of this project are:
   1. To introduce you to Computer Aided Design (CAD)
   2. To introduce you to Laser Cutting
-  3. To intorduce you to 3D manufacturing.
+  3. To introduce you to 3D manufacturing.
 ** Document It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: document
@@ -97,8 +97,8 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - To hold our projects for the year our box is going to need to meet the following criteria:
-  1. Be no smaller than 150mm x 150mm x 150mm
-  2. Cost no more than £2
+  1. Be no smaller than 150mm x 90mm x 50mm
+  2. Cost no more than £5
   3. Must be stackable
 ** Research It
 :PROPERTIES:
@@ -136,6 +136,7 @@
   - Cardboard
   - Steel
   - HIPs
+  - Plywood
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
