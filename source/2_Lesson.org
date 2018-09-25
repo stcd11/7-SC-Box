@@ -163,7 +163,7 @@
 - *ENSURE YOU ONLY UPLOAD THE IMAGE ONCE*
 - *Silver:* Part is trimmed, some dimensions added.
 - *Gold:* Part is fully defined and extruded.
-- *Platinum:* Change its appearance to 'rough pine' to match the image in the 'Design it' section. 
+- *Platinum:* Change its appearance to 'unfinished pine' to match the image in the 'Design it' section. 
 ** Save It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
