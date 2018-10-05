@@ -161,4 +161,7 @@
   2. Use a pair of calipers to measure the dimensions of the part carefully.
   3. Use SolidWorks to create your own sketch of the part and take a screenshot of it for your portfolio.
   4. Extrude the sketch to produce a 3D part and capture a screenshot for your portfolio.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vkPlzmalvN4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+END_HTML
 [[file:img/3_step_15.png]]
