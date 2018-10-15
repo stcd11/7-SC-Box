@@ -129,6 +129,10 @@
 [[file:img/4_step_6.png]]
 - You should now see that your assembley has been fully defined.
 [[file:img/4_step_7.png]]
+- If you can not remember all the steps above, here is a video tutorial explaining the process again.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZVqvJ3F624" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+END_HTML
 
 * Mating a part independently
 :PROPERTIES:
