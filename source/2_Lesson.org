@@ -161,9 +161,12 @@
 - When you have finished the sketch, you'll need to extrude it by 3mm.
 - *Take A SCREENSHOT of your finished sketch and part and then add them to www.bournetolearn.com*
 - *ENSURE YOU ONLY UPLOAD THE IMAGE ONCE*
-- *Silver:* Part is trimmed, some dimensions added.
-- *Gold:* Part is fully defined and extruded.
-- *Platinum:* Change its appearance to 'unfinished pine' to match the image in the 'Design it' section. 
+- *Silver:* Progress Ladder: Yellow - Use a CAD package to draw shapes accurately to specified dimensions.
+  - Part is trimmed, some dimensions added.
+- *Gold:* Progress Ladder: Green - Demontrate the use of a 2D and 3D design package within a project.
+  - Part is fully defined and extruded.
+- *Platinum:* Blue - Modify a pre-existing design to change its aesthetic.
+  - Change its appearance to 'unfinished pine' to match the image in the 'Design it' section. 
 ** Save It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
