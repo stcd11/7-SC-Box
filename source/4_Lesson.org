@@ -153,7 +153,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Gold *Best Mate* badge
-  1. Import the [[file:doc/Finished_Model/Base_Side.SLDPRT][side part of the box]] and the [[file:doc/Finished_Model/Base_Front.SLDPRT][front of the box]].
+  1. Import the [[file:doc/Finished_Model/Right_Plane_Piece.SLDPRT][side part of the box]] and the [[file:doc/Finished_Model/Front_catch.SLDPRT][front of the box]].
   2. Mate these part correctly to form the next parts of the box.
   3. You should now have a completed box that is missing a lid.
 ** Badge It - Platinum
