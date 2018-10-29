@@ -1,0 +1,174 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
+#+TITLE: A Project Storage Box
+#+AUTHOR: Stephen Brown and C. Delport
+
+#+BEGIN_HTML
+<div class=ribbon>
+<a href="https://github.com/stcd11/7-SC-Box">Fork me on GitHub</a>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Sketchy Character
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+- We're going to use a program called Solidworks to design our box.
+- Solidworks is a 3D CAD program
+- You'll get lots of experience with Solidworks later on in the year, so for this section of the project, you'll just be creating a couple of the Solidworks parts and assembling them.
+- In Solidworks you start by creating a *2D sketch*. You can then convert this to a *3D part*. You can then join parts together to make a *3D assembly*.
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- In Solidworks you have to ensure all your drawings are *fully defined*.
+- This means that the software must know the dimensions of *every* line you draw.
+- Quite often the software is able to work out a dimension of a line, from others you have provided.
+- Look at the diagrams below. They have all been *fully defined*. Try and calculate the value of the missing dimensions labeled. You can add the dimensions to the Portfolio.md.
+[[file:img/dimensions_1.png]]
+[[file:img/dimensions_2.png]]
+[[file:img/dimensions_3.png]]
+
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jMsiRKDUq6A" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Below is a photograph of the parts we're going to design using Solidworks.
+- Notice the finger-joints on each part.
+[[file:img/First_parts.png]]
+- [[file:doc/Base_Front.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the front of the base of the box.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Let's add some dimensions to the drawing you've opened in SolidWorks.
+- The instructions below will walk you through the process of using the dimension tool to add the missing dimensions needed to finish this part.
+- When you are finished, your drawing should be *fully defined*.
+[[file:img/2_step_1.png]]
+  1. Make sure the =Sketch= tab has been selected.
+  2. You'll see that the sketch has not yet been fully defined.
+  3. Click on the =Smart Dimension= tool from the tool bar.
+[[file:img/2_step_2.png]]
+  4. Click the top line of the sketch and drag upwards a little.
+  5. Release the mouse button and you should see the dimension has been added.
+  6. This dimension should be 138mm so we can just click the green tick.
+[[file:img/2_step_3.png]]
+  - As you look along the bottom edge, you may have noticed that there are some dimensions missing. In order for SolidWorks to fully understand our model, we'll need to add these in. Using Smart Dimension again, add the dimensions to the four bottom-left hand corner finger joints in the same way you did before. Each of these should be *13mm*.
+  - Your sketch should be fully defined.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- To finish off this sketch, we need to do some triming. This allows us to delete lines that we don't want as we build our model parts.
+[[file:img/2_step_4.png]]
+  1. Click on the trim tool in the toolbar.
+  2. From the context menu on the left of the screen, make sure =Trim to closest= has been selected.
+  3. Now your cursor should now be displaying a scissor icon. Click on the upper line as shown in the diagram above. You will need to click twice to remove this line completely - you'll see why when you start designing your own parts.
+  4. The bottom corner also has some lines we don't need. Click once on each of these to remove them too.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- To turn a sketch into a 3D part, we need to extrude it.
+[[file:img/2_step_5.png]]
+  1. Click the =Features= tab to get the 3D tool bar.
+  2. Click on =Extruded Boss/Base=.
+[[file:img/2_step_6.png]]
+  3. In the context menu on the left, change the Depth to 3mm, as this is the thickness of the MDF we are using.
+  4. Click the green tick to carry out the extrusion
+  5. Your part should now be complete, so take a screenshot for your portfolio.
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+- Save the file in your Documents as *baseFront.SLDPRT*
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Now let's see if you can dimension, trim and extrude a sketch on your own.
+- [[file:doc/Back_underdefined.SLDPRT][Download]] this file and open it in Solidworks. This will be the back of the box.
+- Here is the finished sketch that you need to create, showing all the relevant dimensions.
+[[file:img/badge_task.png]]
+- When you have finished the sketch, you'll need to extrude it by 3mm.
+- *Take A SCREENSHOT of your finished sketch and part and then add them to www.bournetolearn.com*
+- *ENSURE YOU ONLY UPLOAD THE IMAGE ONCE*
+- *Silver:* Progress Ladder: Yellow - Use a CAD package to draw shapes accurately to specified dimensions.
+  - Part is trimmed, some dimensions added.
+- *Gold:* Progress Ladder: Green - Demontrate the use of a 2D and 3D design package within a project.
+  - Part is fully defined and extruded.
+- *Platinum:* Blue - Modify a pre-existing design to change its aesthetic.
+  - Change its appearance to 'unfinished pine' to match the image in the 'Design it' section. 
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+- Save the badge task file in your Documents as *Back.SLDPRT*
