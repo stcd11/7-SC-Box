@@ -104,7 +104,7 @@
 - Below is a photograph of the parts we're going to design using Solidworks.
 - Notice the finger-joints on each part.
 [[file:img/First_parts.png]]
-- [[file:doc/Base_Front.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the front of the base of the box.
+- [[file:doc/Back.SLDPRT][Download this file]] and then open it in Solidworks. This is the unfinished sketch of the front of the base of the box.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
