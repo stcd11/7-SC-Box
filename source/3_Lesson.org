@@ -119,7 +119,10 @@
 - Repeat this process for the five finger joints that need to go at the bottom of the finished shape. 
 - Use the circle tool to add a 3mm diameter circle in centre of the shape. This will be to help your box lock shut when its closed. It's a similar process to drawing a rectangle.
 - *Tip:* All the dimensions you need are shown at the top of this page. 
-- *Important:* Don't continue until your model is =Fully Defined=. 
+- *Important:* Don't continue until your model is =Fully Defined=.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYas6A98a4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML 
 [[file:img/3_step_10.png]]
 - Now, use the *Trim* tool like before (don't forget to turn on 'Trim to Closest') to take out the unwanted parts of your model. 
 - You'll need to click *twice* on each line you want to remove. The first click removes the line created by drawing the smaller rectangle. The second click removes the piece of the very first rectangle you drew at the begininng of this process. 
@@ -134,6 +137,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 - Save your work as lidFront.SLDPRT
+- Upload this part to the silver badge task.
 * Creating a sketch from a design
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -148,6 +152,8 @@
   3. Once you have completed that, extrude it by 3mm
   4. Take a screen shot of the full defined sketch and the 3d part for your portfolio.
 [[file:img/3_step_14.png]]
+- Once complete, save this as the baseFront.SLDPRT
+- Upload this completed task to the Gold badge.
 * Creating a sketch from a real part
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -165,3 +171,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vkPlzmalvN4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 #+END_HTML
 [[file:img/3_step_15.png]]
+- Save the completed file as baseSide.SLDPRT
+- Once complete, upload this part to the Platinum badge.

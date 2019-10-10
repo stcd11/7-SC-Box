@@ -118,8 +118,9 @@
   3. Click on the =Smart Dimension= tool from the tool bar.
 [[file:img/2_step_2.png]]
   4. Click the top line of the sketch and drag upwards a little.
-  5. Release the mouse button and you should see the dimension has been added.
-  6. This dimension should be 138mm so we can just click the green tick.
+  5. You can also click from one point to another point and then add the dimension.
+  6. Release the mouse button and you should see the dimension has been added.
+  7. This dimension should be 138mm so we can just click the green tick.
 [[file:img/2_step_3.png]]
   - As you look along the bottom edge, you may have noticed that there are some dimensions missing. In order for SolidWorks to fully understand our model, we'll need to add these in. Using Smart Dimension again, add the dimensions to the four bottom-left hand corner finger joints in the same way you did before. Each of these should be *13mm*.
   - Your sketch should be fully defined.

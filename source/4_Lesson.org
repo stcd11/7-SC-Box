@@ -104,7 +104,7 @@
     - [[file:doc/Finished_Model/Base_Bottom.SLDPRT][Box Base]]  
     - [[file:doc/Finished_Model/Base_Back.SLDPRT][Base Back]] 
 - Next we need to insert the =Base_Back= into our assembly.
-- Click on the =Insert Components= button in the tool bar (located in the 'Assembly' Tab), select your =Base_Back= part and place it near the back of the model with a click.
+- On the *=Tool Bar=*, click on the *=Assembly Tab=*, then the *=Insert Components=* button, select your =Base_Back= part and place it near the back of the model with a click.
 [[file:img/4_step_2.png]]
 
 - Now the parts can be mated together.
