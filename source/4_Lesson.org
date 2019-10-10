@@ -105,7 +105,7 @@
     - [[file:doc/Finished_Model/Base_Back.SLDPRT][Base Back]] 
 - Next we need to insert the =Base_Back= into our assembly.
 - On the *=Tool Bar=*, click on the *=Assembly Tab=*, then the *=Insert Components=* button, select your =Base_Back= part and place it near the back of the model with a click.
-[[file:img/4_step_2.png]]
+[[file:img/4_step_2_V2.png]]
 
 - Now the parts can be mated together.
 - Mating involves matching =faces= that are =coincident= with each other. This can mean they are either touching each other (as if glued together) or perfectly inline with each other. Usually you'll need *3* mates to fully define the position of any part. This will lock the part on the X, Y and Z axis.
