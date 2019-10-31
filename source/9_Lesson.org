@@ -1,0 +1,128 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil  
+#+TITLE: A Project Storage Box
+#+AUTHOR: C. Delport
+
+#+BEGIN_HTML
+<div class=ribbon>
+<a href="https://github.com/stsb11/7-SC-Box">Fork me on GitHub</a>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+* Designing your own lid for the laser cutter
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Search for the images you want for your box.
+[[./img/Search_image.png]]
+
+- You will need to select images and then go to settings and select advanced search.
+[[./img/Advanced_search.png]]
+
+- Change the options to 'Black & white' and the change it to line drawings. Now click advanced search.
+[[./img/Line_drawing.png]]
+
+- Try to avoid images with too much detail.
+[[./img/Image_avoid.png]]
+
+- Copy the image you wish to use.
+[[./img/Copy_image.png]]
+
+- Now go to your desktop and open 2D designs.
+[[./img/2D_design.png]]
+
+- You will now need to setup the page size.
+[[./img/Setup.png]]
+
+- Select user defined.
+[[./img/User_defined.png]]
+
+- Change X to 145mm and Y to 90mm.
+[[./img/Dimensions.png]]
+
+- Now paste your image onto the page. Right click on the mouse and select 'paste'.
+[[./img/Adjust_paste.png]]
+
+- You will now need to vectorise the bitmap.
+[[./img/Vectorise.png]]
+
+- Select monochrome and then click OK.
+[[./img/Monochrome.png]]
+
+- Click OK again.
+[[./img/2nd_OK.png]]
+
+- You can now add text to your image.
+[[./img/Add_text.png]]
+
+- The text can then be adjusted to different sizes.
+[[./img/Text_adjust.png]]
