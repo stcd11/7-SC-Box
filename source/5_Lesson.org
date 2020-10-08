@@ -101,7 +101,7 @@
 [[file:img/Lid_parts.jpg]]
 - Put a *small* amount of PVA glue on a Post-It note or a piece of paper, and use your fingertip to apply a small amount to all the edges.
 - If you apply too much, it'll look messy when finished. 
-[[file:img/Lid_glue1.jpg]]
+[[file:img/Lid_glue1V2.jpg]]
 - Assemble all the parts for the lid like so...
 [[file:img/Lid_complete.jpg]]
 - Use small amounts of masking tape to help hold all the corners in place while the glue dries. 
@@ -109,7 +109,7 @@
 - While your glue is drying, get all the parts ready to build the bottom half of the box, as shown below:
 [[file:img/Base_parts.jpg]]
 - Apply the PVA to the edges, and put some on the back of the locking mechanism. Don't use too much glue, to ensure a neat finish.
-[[file:img/Base_glue.jpg]]
+[[file:img/Base_glueV2.jpg]]
 - Then add tape to the edges to hold the parts together, as you did for the lid...
 [[file:img/Base_tape1.jpg]]
 [[./img/Lid_tape2.jpg]]
