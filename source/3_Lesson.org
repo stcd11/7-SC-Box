@@ -136,7 +136,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-- Save your work as lidFront.SLDPRT
+- Save your work as lidFront
 - Upload this part to the silver badge task.
 * Creating a sketch from a design
 :PROPERTIES:
@@ -151,8 +151,8 @@
   2. You need to draw, trim and fully define this sketch.
   3. Once you have completed that, extrude it by 3mm
   4. Take a screen shot of the full defined sketch and the 3d part for your portfolio.
-[[file:img/3_step_14.png]]
-- Once complete, save this as the baseFront.SLDPRT
+[[file:img/Lid_final.png]]
+- Once complete, save this as the Lid
 - Upload this completed task to the Gold badge.
 * Creating a sketch from a real part
 :PROPERTIES:
