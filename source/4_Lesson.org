@@ -144,7 +144,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Silver *Best Mate* badge
-  1. Download and import the [[file:doc/Finished_Model/Base_Front.SLDPRT][front catch]] part.
+  1. Download and import the [[file:doc/Finished_Model/Front_catch.SLDPRT][front catch]] part.
   2. Mate it to the front of base so that your assembly is fully defined.
   3. Screen shot your assembly for your portfolio.
 - *IMPORTANT:* Note that this will sit inside the finger joints when finished and leave a slight gap. This is because there is another part to sit in front of it; the gold badge takes care of this.
@@ -153,7 +153,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - To earn the Gold *Best Mate* badge
-  1. Import the [[file:doc/Finished_Model/Right_Plane_Piece.SLDPRT][side part of the box]] and the [[file:doc/Finished_Model/Front_catch.SLDPRT][front of the box]].
+  1. Import the [[file:doc/Finished_Model/Right_Plane_Piece.SLDPRT][side part of the box]] and the [[file:doc/Finished_Model/Base_Front.SLDPRT][front of the box]].
   2. Mate these part correctly to form the next parts of the box.
   3. You should now have a completed box that is missing a lid.
 ** Badge It - Platinum

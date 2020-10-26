@@ -136,7 +136,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-- Save your work as lidFront
+- Save your work as *lidFront*
 - Upload this part to the silver badge task.
 * Creating a sketch from a design
 :PROPERTIES:
@@ -152,7 +152,7 @@
   3. Once you have completed that, extrude it by 3mm
   4. Take a screen shot of the full defined sketch and the 3d part for your portfolio.
 [[file:img/Lid_final.png]]
-- Once complete, save this as the Lid
+- Once complete, save this as the *Lid*
 - Upload this completed task to the Gold badge.
 * Creating a sketch from a real part
 :PROPERTIES:
@@ -171,5 +171,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vkPlzmalvN4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 #+END_HTML
 [[file:img/3_step_15.png]]
-- Save the completed file as baseSide.SLDPRT
+- Save the completed file as *baseSide*
 - Once complete, upload this part to the Platinum badge.

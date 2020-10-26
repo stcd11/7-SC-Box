@@ -150,7 +150,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-- Save the file in your Documents as *baseFront.SLDPRT*
+- Save the file in your Documents as *baseFront*
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
@@ -172,4 +172,4 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-- Save the badge task file in your Documents as *Back.SLDPRT*
+- Save the badge task file in your Documents as *Back*
